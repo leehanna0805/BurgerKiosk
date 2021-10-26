@@ -1,0 +1,2 @@
+# BurgerKiosk
+C++, QT
