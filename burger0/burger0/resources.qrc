@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>image/xButton.png</file>
+        <file>image/bulgogiSet.jpg</file>
+        <file>image/cheeseSet.jpg</file>
+        <file>image/chickenSet.jpg</file>
+        <file>image/shrimpSet.jpg</file>
+        <file>image/burger.jpg</file>
+        <file>image/cheese.jpg</file>
+        <file>image/chicken.jpg</file>
+        <file>image/shrimp.jpg</file>
+        <file>image/cheeseStick.jpg</file>
+        <file>image/chickenNugget.jpg</file>
+        <file>image/background.jpg</file>
+        <file>image/brioche_bun.jpg</file>
+        <file>image/sprite.jpg</file>
+        <file>image/potato_bun.jpg</file>
+        <file>image/sause_barbeque.jpg</file>
+        <file>image/sause_cheese.png</file>
+        <file>image/sause_mayo.jpg</file>
+        <file>image/sause_salsa.jpg</file>
+        <file>image/ve_lettuce.jpg</file>
+        <file>image/ve_onion.png</file>
+        <file>image/ve_pickle.png</file>
+        <file>image/ve_tomato.jpg</file>
+        <file>image/patty_beef.jpg</file>
+        <file>image/patty_chicken.png</file>
+        <file>image/patty_fish.jpg</file>
+        <file>image/patty_shrimp.jpg</file>
+        <file>image/bacon.jpg</file>
+        <file>image/cucumber.png</file>
+        <file>image/frenchFries.jpg</file>
+        <file>image/slicecheese.jpg</file>
+        <file>image/patty_bulgoggi.png</file>
+        <file>image/cock.jpg</file>
+    </qresource>
+</RCC>
